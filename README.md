@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cole-wildcardsoftware
+- 👀 I’m interested in learning more about Rust and Golang
+- 📚 I like to be a jack of all trades and learn interesting things about different things, so I tend to bounce from project to project in my free time.
+- 😄 Pronouns: she/her
